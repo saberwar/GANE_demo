@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_3","characterIndex":5,"characterName":"Actor3","classId":1,"equips":[1,1,2,3,0],"faceIndex":4,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"刘同学","nickname":"刘同学","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_2","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"小王","nickname":"王同学","note":"","profile":""}
+]
